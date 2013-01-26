@@ -1,6 +1,6 @@
 <?php
 /**
- * Objeto gerador de classes randômicas, sua utilização é muito facil, veja um exemplo abaixo:
+ * Objeto gerador de e-mails randômicos, sua utilização é muito facil, veja um exemplo abaixo:
  *
  *	GeradorEmail::iniciar()
  *		->setQuantidade(10)
